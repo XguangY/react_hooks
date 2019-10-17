@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Example from './example7/Example7'
+import Example from './Example8'
 
 ReactDOM.render(<Example/>, document.getElementById('root'));
